@@ -6,5 +6,6 @@
 /build/
 /dist/
 
-# Ignore sensitive information (e.g., API keys)
+# Ignore sensitive information
 .env
+password.txt
