@@ -1,0 +1,10 @@
+# Ignore temporary files
+*~
+*.swp
+
+# Ignore build artifacts
+/build/
+/dist/
+
+# Ignore sensitive information (e.g., API keys)
+.env
